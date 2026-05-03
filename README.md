@@ -37,9 +37,9 @@
 
 <h2 style="color:#333;"> Trainer Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Trainer Name:</strong> Hari Haran</p>
-    <p><strong>Trainer Email ID:</strong> <!-- Add trainer email --></p>
-    <p><strong>Trainer Designation:</strong>BCP & DRSecurity operator at fujitsu</p>
+    <p><strong>Trainer Name:</strong> Sen Hariharan</p>
+    <p><strong>Trainer Email ID:</strong>harivk1815@gmail.com</p>
+    <p><strong>Trainer Designation:</strong> Security Technician at FCIPL</p>
 </div>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
@@ -196,9 +196,8 @@ During my internship period, I participated in multiple community-oriented activ
 <!-- Replace the src URLs below with your own community service photo links -->
 
 <div align="center">
-<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/1/1759752731458?e=1766016000&v=beta&t=7GABy91-0FNbir386wPdJ-Grr385JzS3tR5LQIw1CWg" alt="Community Service Photo 1" width="30%">
-<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/2/1759752731458?e=1766016000&v=beta&t=6RfJQWWqlQUPcCvDnQNW7kR6yf7w-wPDsIPxum409ck" alt="Community Service Photo 2" width="30%">
-<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/3/1759752731458?e=1766016000&v=beta&t=yWaunKdRdLUKBLbmM3UjRYYz-_GSCfWEQ3_R7dW0xLM" alt="Community Service Photo 3" width="30%">
+<img src="https://github.com/sure-trust/PRANJAL-POPAT-MAJARE-g14-cs/issues/1#issue-4371158311" alt="Community Service Photo 1" width="30%">
+<img src="https://github.com/sure-trust/PRANJAL-POPAT-MAJARE-g14-cs/issues/2#issue-4371162903" alt="Community Service Photo 2" width="30%">
 </div>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
@@ -206,8 +205,6 @@ During my internship period, I participated in multiple community-oriented activ
 ## **Certificate**
 
 The internship certificate serves as an official acknowledgment of the successful completion of the training period under SURE Trust. It validates the skills, hands-on experience, and contributions made during the Cyber Security & Ethical Hacking course.
-
-<!-- Replace the src below with your actual certificate image URL -->
 
 <p align="center">
 <img src="https://github.com/Lord-Rahul/Practice-Programs/blob/main/react/1/public/Gemini_Generated_Image_a6w8rda6w8rda6w8.png?raw=true" alt="Internship Certificate" width="80%">
