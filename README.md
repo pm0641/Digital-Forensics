@@ -196,7 +196,7 @@ During my internship period, I participated in multiple community-oriented activ
 <!-- Replace the src URLs below with your own community service photo links -->
 
 <div align="center">
-<img src="https://github.com/sure-trust/PRANJAL-POPAT-MAJARE-g14-cs/issues/1#issue-4371158311" alt="Community Service Photo 1" width="30%">
+<img src="https://github.com/pm0641/Digital-Forensics/blob/main/CS1.jpeg" alt="Community Service Photo 1" width="30%">
 <img src="https://github.com/sure-trust/PRANJAL-POPAT-MAJARE-g14-cs/issues/2#issue-4371162903" alt="Community Service Photo 2" width="30%">
 </div>
 
